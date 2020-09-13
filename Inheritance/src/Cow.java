@@ -1,0 +1,7 @@
+public class Cow implements Animal
+{
+  @Override public String makeSound()
+  {
+    return "Moo Moo";
+  }
+}
